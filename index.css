@@ -14,3 +14,12 @@ body {
     width: 100%;
     overflow: hidden;
 }
+
+.ring {
+    position: relative;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
