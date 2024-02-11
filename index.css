@@ -70,3 +70,24 @@ body {
         transform: rotate(0deg);
     }
 }
+
+.login {
+    position: absolute;
+    width: 250px;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login h2 {
+    font-size: 2em;
+    color: #fff;
+}
+
+.login .inputBx {
+    position: relative;
+    width: 100%;
+}
